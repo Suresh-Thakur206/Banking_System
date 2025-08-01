@@ -1,4 +1,4 @@
-package com.onlineBankingSystem.DatabaseConnection;
+package org.bankingSystem.DatabaseConnection;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
